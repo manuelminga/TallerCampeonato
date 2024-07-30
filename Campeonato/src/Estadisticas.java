@@ -8,5 +8,4 @@ public class Estadisticas {
         return informacion;
     }
 
-    // Constructor, getters y setters
 }
