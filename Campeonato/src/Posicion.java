@@ -13,7 +13,7 @@ public class Posicion {
         this.diferenciaGoles = diferenciaGoles;
     }
 
-    // Getters y Setters
+
     public String getNombreEquipo() { return nombreEquipo; }
     public int getPuntos() { return puntos; }
     public int getGolesAFavor() { return golesAFavor; }

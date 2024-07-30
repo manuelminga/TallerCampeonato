@@ -96,7 +96,7 @@ public class Main {
             }
         }
 
-        Set<Integer> numerosCamiseta = new HashSet<>(); // Conjunto para números de camiseta únicos
+        Set<Integer> numerosCamiseta = new HashSet<>();
 
         for (int i = 0; i < numeroDeJugadores; i++) {
             System.out.println("Inscribiendo jugador " + (i + 1) + ":");
