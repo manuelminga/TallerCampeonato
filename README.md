@@ -4,6 +4,7 @@
 
 ---
 **Diagrama UML de clases version1**
+
 Primera version del diagrama UML, donde existe algunas falencias.
 ![image](https://github.com/user-attachments/assets/4bc1b4c6-1849-4967-a8ab-b593eb014072)
 
