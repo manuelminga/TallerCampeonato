@@ -3,9 +3,21 @@ import java.util.ArrayList;
 public class TablaPosicion {
     private ArrayList<Posicion> posiciones;
 
-    public void ordenarPosiciones(String buscar) {
-        // Implementación
+    // Constructor
+    public TablaPosicion(ArrayList<Posicion> posiciones) {
+        this.posiciones = posiciones;
     }
 
-    // Constructor, getters y setters
+    // Métodos
+    public ArrayList<Posicion> getPosiciones() {
+        return posiciones;
+    }
+
+    public void setPosiciones(ArrayList<Posicion> posiciones) {
+        this.posiciones = posiciones;
+    }
+
+    public void ordenarPosiciones(String criterio) {
+        // Implementar el método de ordenamiento según el criterio
+    }
 }
